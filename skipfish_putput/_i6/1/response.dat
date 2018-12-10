@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Date: Tue, 28 Nov 2017 00:16:32 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Vary: Cookie
+Content-Length: 0
+Location: /admin/login/?next=/admin/auth/group/
+X-Frame-Options: SAMEORIGIN
+Expires: Tue, 28 Nov 2017 00:16:32 GMT
+Cache-Control: max-age=0, must-revalidate, no-store, no-cache
+Content-Type: text/html; charset=utf-8

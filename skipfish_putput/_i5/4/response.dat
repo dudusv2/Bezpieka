@@ -1,0 +1,41 @@
+HTTP/1.1 200 OK
+Date: Mon, 27 Nov 2017 20:17:40 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+X-Frame-Options: SAMEORIGIN
+Content-Length: 1678
+Vary: Cookie
+Expires: Mon, 27 Nov 2017 20:17:40 GMT
+Cache-Control: max-age=0, must-revalidate, no-store, no-cache
+Content-Type: text/html; charset=utf-8
+Set-Cookie: csrftoken=5lVBYF2sqCcTLAwrf9CS4No7DC8TPWT2QHEESfPMQYlooBOvKV1dpKUAxolM58g1; expires=Mon, 26-Nov-2018 20:17:40 GMT; Max-Age=31449600; Path=/
+
+
+<link rel="stylesheet" href="https://bootswatch.com/3/united/bootstrap.min.css" />
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>
+    Logging - Secure Future Banking
+</title>
+</head>
+<body style="margin-top: 50px;   margin-right: 100px;   margin-left: 100px;">
+<div style="clear: right;">
+    <p style="float: right;"><img src="https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/security-128.png" height="100" width="100" border="1px"></p>
+    <h1>Secure Future Banking</h1>
+    <h2>Your security starts here!</h2>
+</div>
+
+
+   <hr>
+    
+
+    <div class="content">
+        <div class="section-inner clearfix">
+
+        
+
+        
+
+        <form action="" method="post"
