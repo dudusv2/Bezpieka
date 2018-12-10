@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Mon, 27 Nov 2017 20:47:58 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Vary: Cookie
+Content-Length: 937
+X-Frame-Options: SAMEORIGIN
+Expires: Mon, 27 Nov 2017 20:47:58 GMT
+Cache-Control: max-age=0, must-revalidate, no-store, no-cache
+Content-Type: text/html; charset=utf-8
+
+
+<link rel="stylesheet" href="https://bootswatch.com/3/united/bootstrap.min.css" /
