@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Mon, 27 Nov 2017 20:47:58 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Vary: Cookie
+Content-Length: 937
+X-Frame-Options: SAMEORIGIN
+Expires: Mon, 27 Nov 2017 20:47:58 GMT
+Cache-Control: max-age=0, must-revalidate, no-store, no-cache
+Content-Type: text/html; charset=utf-8
+
+
+<link rel="stylesheet" href="https://bootswatch.com/3/united/bootstrap.min.css" />
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>
+    Wylogowano - Secure Future Banking
+</title>
+</head>
+<body style="margin-top: 50px;   margin-right: 100px;   margin-left: 100px;">
+<div style="clear: right;">
+    <p style="float: right;"><img src="https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/security-128.png" height="100" width="100" border="1px"

@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Date: Mon, 27 Nov 2017 22:21:42 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+X-Frame-Options: SAMEORIGIN
+Content-Length: 0
+Vary: Cookie
+Location: /admin/login/?next=/admin/jsi18n/
+Content-Type: text/html; charset=utf-8
